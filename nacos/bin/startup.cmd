@@ -66,7 +66,7 @@ if %MODE% == "cluster" (
 	      set "NACOS_OPTS=-DembeddedStorage=true"
 	  )
 
-    set "NACOS_JVM_OPTS=-server -Xms64m -Xmx64m -Xmn60m -XX:MetaspaceSize=128m -XX:MaxMetaspaceSize=320m -XX:-OmitStackTraceInFastThrow -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=%BASE_DIR%\logs\java_heapdump.hprof -XX:-UseLargePages"
+    set "NACOS_JVM_OPTS=-server -Xms2G -Xmx2G -Xmn2G -XX:MetaspaceSize=128m -XX:MaxMetaspaceSize=320m -XX:-OmitStackTraceInFastThrow -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=%BASE_DIR%\logs\java_heapdump.hprof -XX:-UseLargePages"
 )
 
 rem set nacos's functionMode
