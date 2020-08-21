@@ -1,0 +1,2 @@
+1.启动方式
+startup.cmd -m standalone
