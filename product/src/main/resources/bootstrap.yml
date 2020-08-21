@@ -1,0 +1,17 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: product
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: public
+      config:
+        server-addr: 127.0.0.1:8848
+        file-extension: yaml
+        namespace: public
+        group: DEFAULT_GROUP

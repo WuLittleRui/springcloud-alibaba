@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:10072/test?useUnicode=true&useSSL=false&zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=Asia/Shanghai
+      username: root
+      password: 123456
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      keep-alive: true
+mybatis-plus:
+  mapper-locations: classpath:mapper/**/*Mapper.xml
+  global-config:
+    db-config:
+      logic-not-delete-value: 1
+      logic-delete-value: 0
