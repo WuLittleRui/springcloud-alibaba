@@ -1,0 +1,6 @@
+2020-08-24 13:56:11,291 INFO [dump-all-ok] user-dev.yaml+DEFAULT_GROUP, 1597996294000, length=16, md5=9f9deb493c86dcf89b5847c7df672e1d
+
+2020-08-24 13:56:11,294 INFO [dump-all-ok] product-dev.yaml+DEFAULT_GROUP, 1597996419000, length=19, md5=2edcb38b8474b87b60090ee7b9078820
+
+2020-08-24 13:56:11,296 INFO [dump-all-ok] orders-dev.yaml+DEFAULT_GROUP, 1597996783000, length=18, md5=512eb6dcc01b5a6b624d8d5ae09d62cf
+

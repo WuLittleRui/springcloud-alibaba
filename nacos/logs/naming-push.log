@@ -1,14 +1,12 @@
-2020-08-21 15:52:06,280 INFO DEFAULT_GROUP@@user is changed, add it to push queue.
+2020-08-24 13:57:10,384 INFO DEFAULT_GROUP@@orders is changed, add it to push queue.
 
-2020-08-21 15:53:22,246 INFO DEFAULT_GROUP@@user is changed, add it to push queue.
+2020-08-24 13:57:23,402 INFO DEFAULT_GROUP@@user is changed, add it to push queue.
 
-2020-08-21 15:55:22,388 INFO DEFAULT_GROUP@@product is changed, add it to push queue.
+2020-08-24 14:00:13,399 INFO DEFAULT_GROUP@@product is changed, add it to push queue.
 
-2020-08-21 15:57:54,191 INFO DEFAULT_GROUP@@product is changed, add it to push queue.
+2020-08-24 14:38:15,137 INFO DEFAULT_GROUP@@product is changed, add it to push queue.
 
-2020-08-21 15:58:15,445 INFO DEFAULT_GROUP@@product is changed, add it to push queue.
+2020-08-24 14:38:16,543 INFO DEFAULT_GROUP@@orders is changed, add it to push queue.
 
-2020-08-21 15:58:38,769 INFO DEFAULT_GROUP@@product is changed, add it to push queue.
-
-2020-08-21 16:00:09,697 INFO DEFAULT_GROUP@@orders is changed, add it to push queue.
+2020-08-24 14:38:18,367 INFO DEFAULT_GROUP@@user is changed, add it to push queue.
 

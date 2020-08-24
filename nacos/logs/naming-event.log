@@ -1,28 +1,24 @@
-2020-08-21 15:52:05,270 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.10.53:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-08-24 13:57:09,379 INFO DEFAULT_GROUP@@orders {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.10.53:8085:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-08-21 15:52:05,280 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 10.10.10.53:8083_true,
+2020-08-24 13:57:09,383 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orders, ips: 10.10.10.53:8085_true,
 
-2020-08-21 15:53:21,242 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.10.53:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-08-24 13:57:22,401 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.10.53:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-08-21 15:53:21,243 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+2020-08-24 13:57:22,401 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 10.10.10.53:8083_true,
 
-2020-08-21 15:55:21,387 INFO DEFAULT_GROUP@@product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.10.53:8084:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-08-24 14:00:12,398 INFO DEFAULT_GROUP@@product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.10.53:8084:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-08-21 15:55:21,387 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product, ips: 10.10.10.53:8084_true,
+2020-08-24 14:00:12,398 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product, ips: 10.10.10.53:8084_true,
 
-2020-08-21 15:57:53,190 INFO DEFAULT_GROUP@@product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.10.53:8084:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-08-24 14:38:14,136 INFO DEFAULT_GROUP@@product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.10.53:8084:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-08-21 15:57:53,190 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product, ips: 
+2020-08-24 14:38:14,137 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product, ips: 
 
-2020-08-21 15:58:14,444 INFO DEFAULT_GROUP@@product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.10.53:8085:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-08-24 14:38:15,542 INFO DEFAULT_GROUP@@orders {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.10.53:8085:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-08-21 15:58:14,445 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product, ips: 10.10.10.53:8085_true,
+2020-08-24 14:38:15,542 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orders, ips: 
 
-2020-08-21 15:58:37,768 INFO DEFAULT_GROUP@@product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.10.53:8085:unknown:DEFAULT_1.0_true_false_DEFAULT]
+2020-08-24 14:38:17,366 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.10.10.53:8083:unknown:DEFAULT_1.0_true_false_DEFAULT]
 
-2020-08-21 15:58:37,768 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product, ips: 
-
-2020-08-21 16:00:08,696 INFO DEFAULT_GROUP@@orders {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.10.10.53:8085:unknown:DEFAULT_1.0_true_false_DEFAULT]
-
-2020-08-21 16:00:08,696 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orders, ips: 10.10.10.53:8085_true,
+2020-08-24 14:38:17,366 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
 
